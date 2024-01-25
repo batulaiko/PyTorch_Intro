@@ -1,5 +1,5 @@
 # PyTorch_Intro
-PyTorch introductory tutorial notebooks and codes. Useful for deep learing practitioners.
+PyTorch introductory tutorial notebooks and codes. Useful for deep learning practitioners.
 
 ## Recommended Order of Study:
 
